@@ -1,2 +1,2 @@
-#!/bin/basi
+#!/bin/bash
 cat -e Hello, World
