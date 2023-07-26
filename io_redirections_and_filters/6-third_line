@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 /sed
+head -n 3 /iacta
